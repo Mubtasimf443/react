@@ -1,4 +1,5 @@
-import { StrictMode } from 'react'
+/* بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ ﷺ InshaAllah */
+
 import { createRoot } from 'react-dom/client'
 import './index.css'
 

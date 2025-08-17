@@ -1,6 +1,6 @@
 /* بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ ﷺ InshaAllah */
 
-import React, { FC, Fragment } from 'react';
+import  {type FC, Fragment } from 'react';
 
 interface Props {
 

@@ -1,7 +1,7 @@
 /* بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ ﷺ InshaAllah */
 
-import React, { FC, ButtonHTMLAttributes } from 'react';
-import { LucideIcon } from 'lucide-react';
+import React, { type FC, type ButtonHTMLAttributes } from 'react';
+import { type LucideIcon } from 'lucide-react';
 
 interface Props extends ButtonHTMLAttributes<HTMLButtonElement> {
     variant?: 'primary' | 'secondary' | 'outline';

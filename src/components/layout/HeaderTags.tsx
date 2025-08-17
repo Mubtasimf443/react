@@ -1,6 +1,6 @@
 /* بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ ﷺ InshaAllah */
-"use client"
-import React, { FC, Fragment } from 'react';
+
+import {type FC } from 'react';
 
 interface Props {
 
@@ -8,9 +8,9 @@ interface Props {
 
 const HeaderTags: FC<Props> = ({ }) => {
     return (
-        <Fragment>
+        
             <script src='/static/js/HeadTags.js' ></script>
-        </Fragment>
+        
     )
 };
 

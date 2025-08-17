@@ -5,7 +5,6 @@ import { createBrowserRouter, RouterProvider } from "react-router"
 import HomePage from "./pages/Home";
 import Header from "./components/layout/Header";
 import Footer from "./components/layout/Footer";
-import React from "react";
 
 
 function App() {

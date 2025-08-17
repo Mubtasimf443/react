@@ -4,7 +4,7 @@
 import { 
   Database, 
   Server, 
-  Cpu, 
+ 
   Globe, 
   
 } from 'lucide-react';

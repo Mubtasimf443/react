@@ -2,8 +2,7 @@
 
 import { useToggle } from 'usehooks-ts';
 import Button from '../element/Button';
-
-
+import './HeaderTags'
 
 const Header = () => {
     const [showMobileNav, toggle] = useToggle();

@@ -1,6 +1,6 @@
 /* بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ ﷺ InshaAllah */
 
-import { Download, File, FileDown, Github, Twitter } from 'lucide-react';
+import {  FileDown, Github, Twitter } from 'lucide-react';
 import { Link } from 'react-router';
 
 

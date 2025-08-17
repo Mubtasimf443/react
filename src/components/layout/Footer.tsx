@@ -4,7 +4,7 @@
 
 import { type FC } from "react";
 import { Github, Twitter, Briefcase, User, Code2, Mail, ExternalLink } from "lucide-react";
-import './BodyTags';
+
 
 const socialLinks = [
     {

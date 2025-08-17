@@ -17,7 +17,7 @@ const ProjectCard :FC<Props> = ({ title, description, imagePath, githubUrl, live
         <img
           src={imagePath}
           alt={title}
-          className="object-cover object-top"
+          className=" object-cover h-46 w-full"
           loading="lazy"
         />
       </div>

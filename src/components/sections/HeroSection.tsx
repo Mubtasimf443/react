@@ -11,7 +11,7 @@ const HeroSection = () => {
             <div className="container mx-auto px-6 lg:px-8 flex flex-col-reverse lg:flex-row items-center justify-center gap-x-12 gap-y-10">
                 {/* Content */}
                 <div className="max-w-3xl">
-                    <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">
+                    <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6 text-white">
                         Hi, I'm{' '}
                         <span className="text-primary-500 inline-block">
                             Muhammad Mubtasim
